@@ -36,5 +36,5 @@ FORMS += \
         mainwindow.ui
 
 RESOURCES += \
-    doc_open.qrc \
-    doc_open.qrc
+    file_open.qrc \
+    file_save.qrc
