@@ -13,7 +13,7 @@
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent)
-  //, ui(new Ui::MainWindow)
+  , ui(new Ui::MainWindow)
 {
     setWindowTitle("Main Window");
    // ui->setupUi(this);//初始化
